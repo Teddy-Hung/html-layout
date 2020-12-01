@@ -1,8 +1,14 @@
-
+body {
+    margin: 25px;
+}
 
 #border-box {
-    margin:
+    margin:10px;
     height: 30vh;
-    width: 98vw;
+    width: 100%;
     border: 5px solid black;
+}
+
+#purple-rectangle {
+    
 }
