@@ -1,0 +1,4 @@
+/* universal selector applies whatever is in the {} to all parts of the html file*/
+*{
+    box-sizing: border-box; /*contains elements into box. this fixed elements going past container*/ 
+}
